@@ -14,6 +14,7 @@ char *dest_name = NULL;
 char *first_match = NULL;
 char *last_match = NULL;
 
+void rename_exit();
 
 int main(int argc, char **argv)
 {
